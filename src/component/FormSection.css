@@ -1,0 +1,13 @@
+.form{
+    width: 600px;
+    margin: auto;
+    padding-top: 100px;
+}
+
+.table{
+    /* border: 2px solid gray; */
+    width: 800px;
+    margin: auto;
+    margin-top: 80px;
+}
+
